@@ -1,0 +1,6 @@
+{
+  "name": "InstaStream - Instagram Video Downloader & n8n Bot Automation Hub",
+  "description": "Download Instagram Reels, Posts, and Videos directly or automate downloading via Telegram Bot using n8n workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
